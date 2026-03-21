@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladislav Rajtmajer (@rajtik76)
 
-![Laravel 12 Ready](https://img.shields.io/badge/Laravel-12%20Ready-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![Laravel 13 Ready](https://img.shields.io/badge/Laravel-13%20Ready-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Work-22c55e?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-10%2B%20years-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
