@@ -42,7 +42,7 @@ In recent years, I have focused primarily on **PHP, Laravel, PostgreSQL, and IoT
 ---
 
 ## 🌐 Featured Projects
-
+- 🔗 **[CaptchaAPI](https://captchaapi.eu)** — PoW Captcha GDPR-compliance service  
 - 🔗 **[Billify.cz](https://billify.cz)** — commercial invoicing SaaS  
 - 🔗 **[Laravel Blog](https://laravel-blog.cz)** — personal Laravel blog
 
