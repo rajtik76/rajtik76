@@ -10,5 +10,6 @@ I build and run PHP / Laravel SaaS products.
 Open source:
 
 - **[poe2-toolkit](https://github.com/rajtik76/poe2-toolkit)** - Path of Exile 2 passive-tree toolkit: GGPK extraction, a headless geometry engine and a WebGL renderer
+- **[captchaapi/laravel](https://github.com/captchaapi/laravel)** - official Laravel SDK for captchaapi.eu, with native Livewire support
 
 Open-source work is pinned below.
