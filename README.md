@@ -11,5 +11,6 @@ Open source:
 
 - **[poe2-toolkit](https://github.com/rajtik76/poe2-toolkit)** - Path of Exile 2 passive-tree toolkit: GGPK extraction, a headless geometry engine and a WebGL renderer
 - **[captchaapi/laravel](https://github.com/captchaapi/laravel)** - official Laravel SDK for captchaapi.eu, with native Livewire support
+- **[weather-station](https://github.com/rajtik76/weather-station)** - home weather station end to end: ESP32 firmware, a Laravel ingest API and a Livewire dashboard, running at [weather.rajtik.com](https://weather.rajtik.com)
 
 Open-source work is pinned below.
