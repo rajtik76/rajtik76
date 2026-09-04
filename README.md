@@ -9,8 +9,7 @@ Ingesting data from hardware is not a normal CRUD problem: the upstream is
 messy, the contracts have to be strict, and edge cases are the normal case.
 Having written the firmware end makes the backend end better.
 
-Available for remote contract work across the EU. Czech OSVC, B2B only, up to
-160 hours per month, part-time welcome.
+Available for remote contract work across the EU. Czech OSVC, B2B only, part-time welcome.
 
 ## Products I build and run
 
@@ -29,8 +28,8 @@ Published on Packagist, WordPress.org and npm.
 
 ## Stack
 
-Embedded C, C++, microcontrollers (Atmel AVR, PIC), telemetry, LoRaWAN
-PHP, Laravel, REST API design, PostgreSQL, MySQL, Redis
+Embedded C, C++, microcontrollers (Atmel AVR, PIC), telemetry, LoRaWAN,
+PHP, Laravel, REST API design, PostgreSQL, MySQL, Redis,
 Pest, PHPUnit, PHPStan, Docker, CI/CD, SCRUM
 
 ## Contact
