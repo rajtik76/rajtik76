@@ -28,9 +28,10 @@ Published on Packagist, WordPress.org and npm.
 
 ## Stack
 
-Embedded C, C++, microcontrollers (Atmel AVR, PIC), telemetry, LoRaWAN,
-PHP, Laravel, REST API design, PostgreSQL, MySQL, Redis,
-Pest, PHPUnit, PHPStan, Docker, CI/CD, SCRUM
+**Embedded** - C, C++, microcontrollers (Atmel AVR, PIC), telemetry, LoRaWAN  
+**Backend** - PHP, Laravel, REST API design, PostgreSQL, MySQL, Redis  
+**Frontend** - Livewire, Vue.js, React  
+**Practice** - Pest, PHPUnit, PHPStan, Docker, CI/CD, SCRUM
 
 ## Contact
 
