@@ -16,12 +16,12 @@ Available for remote contract work across the EU. Czech OSVC, B2B only, up to
 
 - **[captchaapi.eu](https://captchaapi.eu)** - GDPR-compliant proof-of-work CAPTCHA, EU-hosted
 - **[billify.cz](https://billify.cz)** - invoicing for Czech businesses
-- **[poe.rajtik.com](https://poe.rajtik.com)** - Exile to Exile: free Path of Exile 2 tools (passive-tree planner, build compare, patch webhook)
 - **[laravel-blog.cz](https://laravel-blog.cz)** - writing about Laravel
 
 ## Open source
 
 - **[weather-station](https://github.com/rajtik76/weather-station)** - both ends of one system: ESP32 firmware reading a BME280, and the Laravel API and dashboard it uploads to. Versioned wire protocol, readings buffered in RTC memory across deep sleep, idempotent ingest. Running at [weather.rajtik.com](https://weather.rajtik.com)
+- **[exile2exile](https://github.com/rajtik76/exile2exile)** - free Path of Exile 2 companion: build planner, passive tree, loot filter generator and shareable builds. Laravel 13 on PHP 8.4 with React, Inertia and TypeScript, PostgreSQL and Redis, automated game-data releases and CI contract tests. Running at [poe.rajtik.com](https://poe.rajtik.com)
 - **[poe2-toolkit](https://github.com/rajtik76/poe2-toolkit)** - Path of Exile 2 passive-tree toolkit: GGPK extraction, a headless geometry engine and a WebGL renderer
 - **[captchaapi/laravel](https://github.com/captchaapi/laravel)** - official Laravel SDK for captchaapi.eu, with native Livewire support
 
