@@ -21,8 +21,8 @@ Available for remote contract work across the EU. Czech OSVC, B2B only, up to
 ## Open source
 
 - **[weather-station](https://github.com/rajtik76/weather-station)** - both ends of one system: ESP32 firmware reading a BME280, and the Laravel API and dashboard it uploads to. Versioned wire protocol, readings buffered in RTC memory across deep sleep, idempotent ingest. Running at [weather.rajtik.com](https://weather.rajtik.com)
-- **[exile2exile](https://github.com/rajtik76/exile2exile)** - free Path of Exile 2 companion: build planner, passive tree, loot filter generator and shareable builds. Laravel 13 on PHP 8.4 with React, Inertia and TypeScript, PostgreSQL and Redis, automated game-data releases and CI contract tests. Running at [poe.rajtik.com](https://poe.rajtik.com)
-- **[poe2-toolkit](https://github.com/rajtik76/poe2-toolkit)** - Path of Exile 2 passive-tree toolkit: GGPK extraction, a headless geometry engine and a WebGL renderer
+- **[poe2-toolkit](https://github.com/rajtik76/poe2-toolkit)** - eight MIT-licensed TypeScript packages on npm: GGPK extraction for game data, a headless passive-tree geometry engine and a WebGL renderer
+- **[exile2exile](https://github.com/rajtik76/exile2exile)** - the app those packages were built for: a free Path of Exile 2 companion with a build planner, passive tree, loot filter generator and shareable builds. Laravel 13 on PHP 8.4 with React, Inertia and TypeScript, PostgreSQL and Redis, automated game-data releases and CI contract tests. Running at [poe.rajtik.com](https://poe.rajtik.com)
 - **[captchaapi/laravel](https://github.com/captchaapi/laravel)** - official Laravel SDK for captchaapi.eu, with native Livewire support
 
 Published on Packagist, WordPress.org and npm.
