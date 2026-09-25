@@ -1,13 +1,12 @@
 # Vladislav Rajtmajer
 
-I work at the seam between hardware and the backend. An earlier decade of my
-career was firmware in C for Atmel AVR and PIC, telemetry APIs and LoRaWAN. The
-12+ years since have gone into the PHP and Laravel services that field devices
-talk to.
+Senior PHP / Laravel engineer with 12+ years of building backends: REST and
+user-facing API design, PostgreSQL, queues, and the boring reliability work
+that keeps APIs predictable. On the frontend I work in Livewire and Vue.js.
 
-Ingesting data from hardware is not a normal CRUD problem: the upstream is
-messy, the contracts have to be strict, and edge cases are the normal case.
-Having written the firmware end makes the backend end better.
+Before the web I spent a decade in embedded and IoT, writing firmware in C for
+Atmel AVR and PIC. That is where I learned to keep data contracts strict and to
+treat edge cases as the normal case.
 
 Available for remote contract work across the EU. Czech OSVC, B2B only, part-time welcome.
 
@@ -19,19 +18,19 @@ Available for remote contract work across the EU. Czech OSVC, B2B only, part-tim
 
 ## Open source
 
-- **[weather-station](https://github.com/rajtik76/weather-station)** - both ends of one system: ESP32 firmware reading a BME280, and the Laravel API and dashboard it uploads to. Versioned wire protocol, readings buffered in RTC memory across deep sleep, idempotent ingest. Running at [weather.rajtik.com](https://weather.rajtik.com)
-- **[poe2-toolkit](https://github.com/rajtik76/poe2-toolkit)** - eight MIT-licensed TypeScript packages on npm: GGPK extraction for game data, a headless passive-tree geometry engine and a WebGL renderer
-- **[exile2exile](https://github.com/rajtik76/exile2exile)** - the app those packages were built for: a free Path of Exile 2 companion with a build planner, passive tree, loot filter generator and shareable builds. Laravel 13 on PHP 8.4 with React, Inertia and TypeScript, PostgreSQL and Redis, automated game-data releases and CI contract tests. Running at [poe.rajtik.com](https://poe.rajtik.com)
+- **[exile2exile](https://github.com/rajtik76/exile2exile)** - a free Path of Exile 2 companion with a build planner, passive tree, loot filter generator and shareable builds. Laravel 13 on PHP 8.4 with React, Inertia and TypeScript, PostgreSQL and Redis, automated game-data releases and CI contract tests. Running at [poe.rajtik.com](https://poe.rajtik.com)
 - **[captchaapi/laravel](https://github.com/captchaapi/laravel)** - official Laravel SDK for captchaapi.eu, with native Livewire support
+- **[poe2-toolkit](https://github.com/rajtik76/poe2-toolkit)** - eight MIT-licensed TypeScript packages on npm that exile2exile is built on: GGPK extraction for game data, a headless passive-tree geometry engine and a WebGL renderer
+- **[weather-station](https://github.com/rajtik76/weather-station)** - a Laravel API and dashboard fed by my own ESP32 firmware. Versioned wire protocol, idempotent ingest. Running at [weather.rajtik.com](https://weather.rajtik.com)
 
 Published on Packagist, WordPress.org and npm.
 
 ## Stack
 
-**Embedded** - C, C++, microcontrollers (Atmel AVR, PIC), telemetry, LoRaWAN  
-**Backend** - PHP, Laravel, REST API design, PostgreSQL, MySQL, Redis  
-**Frontend** - Livewire, Vue.js, React  
-**Practice** - Pest, PHPUnit, PHPStan, Docker, CI/CD, SCRUM
+**Backend** - PHP, Laravel, REST API design, PostgreSQL, MySQL, Redis, queues  
+**Frontend** - Livewire, Vue.js, Inertia, React, TypeScript  
+**Practice** - Pest, PHPUnit, PHPStan, Docker, CI/CD, SCRUM  
+**Also** - embedded C (Atmel AVR, PIC, ESP32), IoT telemetry
 
 ## Contact
 
