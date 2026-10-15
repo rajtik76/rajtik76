@@ -25,7 +25,7 @@ Available for remote contract work across the EU. Czech OSVC, B2B only, part-tim
 - **[exile2exile](https://github.com/rajtik76/exile2exile)** - a free Path of Exile 2 companion with a build planner, passive tree, loot filter generator and shareable builds. Laravel 13 on PHP 8.4 with React, Inertia and TypeScript, PostgreSQL and Redis, automated game-data releases and CI contract tests. Running at [poe.rajtik.com](https://poe.rajtik.com)
 - **[captchaapi/laravel](https://github.com/captchaapi/laravel)** - official Laravel SDK for captchaapi.eu, with native Livewire support
 - **[poe2-toolkit](https://github.com/rajtik76/poe2-toolkit)** - eight MIT-licensed TypeScript packages on npm that exile2exile is built on: GGPK extraction for game data, a headless passive-tree geometry engine and a WebGL renderer
-- **[weather-station](https://github.com/rajtik76/weather-station)** - a balcony weather station that forecasts its own next six hours. My own ESP32 firmware in C++ (I2C / I2S sensors, rain heard in the microphone spectrum, KiCad schematics), a Laravel API and dashboard, and scikit-learn models trained on eight years of Czech Hydrometeorological Institute (ČHMÚ) records, scored live against persistence. Versioned wire protocol, idempotent ingest. Running at [weather.rajtik.com](https://weather.rajtik.com)
+- **[weather-station](https://github.com/rajtik76/weather-station)** - a balcony weather station that corrects its own sun-heated radiation shield. My own ESP32 firmware in C++ (I2C / I2S sensors, rain heard in the microphone spectrum, KiCad schematics), a Laravel API and dashboard, and a regression model calibrated against the Czech Hydrometeorological Institute (ČHMÚ) station Plzeň-Mikulka that subtracts solar heating from light and sun position. It goes live only after beating the raw sensor on held-out days. Versioned wire protocol, idempotent ingest. Running at [weather.rajtik.com](https://weather.rajtik.com)
 - **[pis-cesky](https://github.com/rajtik76/pis-cesky)** - a Claude Code plugin that teaches AI to write Czech that does not read like a translation. Rules derived from human-written Czech instead of a phrase blacklist, and a proofreading agent that never sees the brief
 
 Published on Packagist, WordPress.org and npm.
@@ -35,7 +35,7 @@ Published on Packagist, WordPress.org and npm.
 **Backend** - PHP, Laravel, REST API design, PostgreSQL, MySQL, Redis, queues  
 **Frontend** - Livewire, Vue.js, Inertia, React, TypeScript  
 **Practice** - Pest, PHPUnit, PHPStan, Docker, CI/CD, SCRUM  
-**AI** - LLM integration (Claude, laravel/ai, structured output, tool use), Claude Code, Python, scikit-learn  
+**AI** - LLM integration (Claude, laravel/ai, structured output, tool use), Claude Code  
 **Also** - embedded C (Atmel AVR, PIC, ESP32), IoT telemetry
 
 ## Contact
