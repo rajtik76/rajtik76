@@ -23,11 +23,11 @@ Available for remote contract work across the EU. Czech OSVC, B2B only, part-tim
 
 ## Nette open source
 
-- **[nette-tailwind-starter-kit](https://github.com/rajtik76/nette-tailwind-starter-kit)** ([details](https://nette.rajtik.com/starter-kit)) - a Nette starter kit with authentication, dashboard and account settings, built on Latte, Tailwind CSS 4 and Naja
-- **[nette-tailwind](https://github.com/rajtik76/nette-tailwind)** ([details](https://nette.rajtik.com/#nette-tailwind)) - a Nette web project skeleton with Tailwind CSS 4 and Vite
-- **[nette-console](https://github.com/rajtik76/nette-console)** ([details](https://nette.rajtik.com/#nette-console)) - Symfony Console in Nette DI, automatic package discovery and `make:*` generators
-- **[nette-migrations](https://github.com/rajtik76/nette-migrations)** ([details](https://nette.rajtik.com/#nette-migrations)) - migrations, schema builder, seeders and factories for Nette Database, supporting SQLite, MySQL, MariaDB and PostgreSQL
-- **[nette-middleware](https://github.com/rajtik76/nette-middleware)** ([details](https://nette.rajtik.com/#nette-middleware)) - route middleware for Nette Application, with a `make:middleware` generator
+- **[nette-tailwind-starter-kit](https://github.com/rajtik76/nette-tailwind-starter-kit)** - a Nette starter kit with authentication, dashboard and account settings, built on Latte, Tailwind CSS 4 and Naja
+- **[nette-tailwind](https://github.com/rajtik76/nette-tailwind)** - a Nette web project skeleton with Tailwind CSS 4 and Vite
+- **[nette-console](https://github.com/rajtik76/nette-console)** - Symfony Console in Nette DI, automatic package discovery and `make:*` generators
+- **[nette-migrations](https://github.com/rajtik76/nette-migrations)** - migrations, schema builder, seeders and factories for Nette Database, supporting SQLite, MySQL, MariaDB and PostgreSQL
+- **[nette-middleware](https://github.com/rajtik76/nette-middleware)** - route middleware for Nette Application, with a `make:middleware` generator
 
 ## Open source
 
