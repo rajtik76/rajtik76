@@ -1,8 +1,9 @@
 # Vladislav Rajtmajer
 
-Senior PHP / Laravel engineer with 12+ years of building backends: REST and
-user-facing API design, PostgreSQL, queues, and the boring reliability work
-that keeps APIs predictable. On the frontend I work in Livewire and Vue.js.
+Senior PHP engineer working with Laravel and Nette, with 12+ years of building
+backends: REST and user-facing API design, PostgreSQL, queues, and the boring
+reliability work that keeps APIs predictable. On the frontend I work in
+Livewire and Vue.js.
 
 Before the web I spent a decade in embedded and IoT, writing firmware in C for
 Atmel AVR and PIC. That is where I learned to keep data contracts strict and to
@@ -20,6 +21,14 @@ Available for remote contract work across the EU. Czech OSVC, B2B only, part-tim
 - **[billify.cz](https://billify.cz)** - invoicing for Czech businesses; an LLM reads received PDF invoices into the monthly VAT return, with the exchange rate from a tool and a human confirming every row
 - **[laravel-blog.cz](https://laravel-blog.cz)** - writing about Laravel and AI-assisted development
 
+## Nette open source
+
+- **[nette-tailwind-starter-kit](https://github.com/rajtik76/nette-tailwind-starter-kit)** - a Nette starter kit with authentication, dashboard and account settings, built on Latte, Tailwind CSS 4 and Naja
+- **[nette-tailwind](https://github.com/rajtik76/nette-tailwind)** - a Nette web project skeleton with Tailwind CSS 4 and Vite
+- **[nette-console](https://github.com/rajtik76/nette-console)** - Symfony Console in Nette DI, automatic package discovery and `make:*` generators
+- **[nette-migrations](https://github.com/rajtik76/nette-migrations)** - migrations, schema builder, seeders and factories for Nette Database, supporting SQLite, MySQL, MariaDB and PostgreSQL
+- **[nette-middleware](https://github.com/rajtik76/nette-middleware)** - route middleware for Nette Application, with a `make:middleware` generator
+
 ## Open source
 
 - **[exile2exile](https://github.com/rajtik76/exile2exile)** - a free Path of Exile 2 companion with a build planner, passive tree, loot filter generator and shareable builds. Laravel 13 on PHP 8.4 with React, Inertia and TypeScript, PostgreSQL and Redis, automated game-data releases and CI contract tests. Running at [poe.rajtik.com](https://poe.rajtik.com)
@@ -32,7 +41,7 @@ Published on Packagist, WordPress.org and npm.
 
 ## Stack
 
-**Backend** - PHP, Laravel, REST API design, PostgreSQL, MySQL, Redis, queues  
+**Backend** - PHP, Laravel, Nette, REST API design, PostgreSQL, MySQL, Redis, queues\
 **Frontend** - Livewire, Vue.js, Inertia, React, TypeScript  
 **Practice** - Pest, PHPUnit, PHPStan, Docker, CI/CD, SCRUM  
 **AI** - LLM integration (Claude, laravel/ai, structured output, tool use), Claude Code  
