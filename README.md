@@ -27,7 +27,6 @@ Available for remote contract work across the EU. Czech OSVC, B2B only, part-tim
 - **[nette-tailwind](https://github.com/rajtik76/nette-tailwind)** - a Nette web project skeleton with Tailwind CSS 4 and Vite
 - **[nette-console](https://github.com/rajtik76/nette-console)** - Symfony Console in Nette DI, automatic package discovery and `make:*` generators
 - **[nette-migrations](https://github.com/rajtik76/nette-migrations)** - migrations, schema builder, seeders and factories for Nette Database, supporting SQLite, MySQL, MariaDB and PostgreSQL
-- **[nette-middleware](https://github.com/rajtik76/nette-middleware)** - route middleware for Nette Application, with a `make:middleware` generator
 
 ## Open source
 
