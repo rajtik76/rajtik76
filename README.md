@@ -33,5 +33,3 @@ tools, and tests that decide when the work is done.
 
 PHP · Laravel · Nette · PostgreSQL · MySQL · Redis · Livewire · Vue.js · Inertia · TypeScript\
 Pest · PHPUnit · PHPStan · Docker · CI/CD · embedded C (AVR, PIC, ESP32)
-
-[rajtik.com](https://rajtik.com) · [X](https://x.com/VRajtmajer) · Plzeň, Czech Republic
