@@ -3,6 +3,7 @@
 PHP engineer with 12+ years on backends in Laravel and Nette: API design,
 PostgreSQL, queues, and the reliability work that keeps systems predictable.
 Frontend in Livewire and Vue.js.
+25+ years in software engineering, from embedded/IoT firmware to web backends.
 
 Before the web I spent a decade writing embedded C for AVR and PIC. It left me
 with strict data contracts and a habit of treating edge cases as the normal case.
